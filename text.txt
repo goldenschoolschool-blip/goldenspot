@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Golden Spot Cafetería</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="images/logo.png" alt="Golden Spot Logo" class="logo">
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="menu.html">Menú</a>
+      <a href="#">Contacto</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Bienvenidos a The Golden Spot ☕</h1>
+    <p>La cafetería de Golden School – sabor, energía y tradición escolar.</p>
+    <a class="btn" href="menu.html">Ver Menú</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Golden Spot | Golden School</p>
+  </footer>
+</body>
+</html>
